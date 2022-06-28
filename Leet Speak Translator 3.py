@@ -12,7 +12,6 @@ MENU="""
                                         Créé par IdefaSoft, tous droits réservés.
          Choisissez 'q' pour quitter, 'p' pour revenir au menu précédent.
 """
-######################### Section des fonctions ##############################
 def coder_message(message, substitutions):
     """Traite une chaine transmise et applique des substitutions de lettres d'après une liste d'éléments. Chaque élément est une liste de longueur 2(ancien, nouveau) """
     for s in substitutions:
@@ -21,7 +20,6 @@ def coder_message(message, substitutions):
         message = message.replace(vcar, ncar)
     return message
 
-######################### Section Main ############################
 print(MENU)
 while True:
     message0 = input("Voulez-vous :\n1.Crypter\n2.Décrypter\nNombre :")
