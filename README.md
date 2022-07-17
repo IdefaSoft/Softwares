@@ -23,6 +23,8 @@ Les logiciels sans inteface graphique :
 
 -Pays et capitales : un logiciel permettant d'interroger l'utilisateur sur les pays et les capitales, avec différents modes possibles ;
 
+![pays et capitales](https://user-images.githubusercontent.com/107947881/179393679-cc7fbefc-9c32-4ec2-b064-a7cfd42f5329.png)
+
 -Leet Speak Translator : un programme permettant de transformer du texte en un leet speak légèrement modifié, ainsi que de le décoder.
 
 Si vous rencontrez le moindre problème lors de l'utilisation de ces logiciels, n'hésitez pas à me contacter ici :
