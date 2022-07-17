@@ -21,6 +21,8 @@ Les logiciels sans inteface graphique :
 
 -Cryptographie : un logiciel qui crypte du texte en utilisant des codages très simple, il peut aussi crypter des fichiers textes ;
 
+-Pays et capitales : un logiciel permettant d'interroger l'utilisateur sur les pays et les capitales, avec différents modes possibles ;
+
 -Leet Speak Translator : un programme permettant de transformer du texte en un leet speak légèrement modifié, ainsi que de le décoder.
 
 Si vous rencontrez le moindre problème lors de l'utilisation de ces logiciels, n'hésitez pas à me contacter ici :
