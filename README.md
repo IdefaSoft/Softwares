@@ -21,6 +21,8 @@ Les logiciels sans inteface graphique :
 
 -Cryptographie : un logiciel qui crypte du texte en utilisant des codages très simple, il peut aussi crypter des fichiers textes ;
 
+![Cryptographie](https://user-images.githubusercontent.com/107947881/179395044-da0df7a7-aa9a-4c19-8ef3-1f2b7154a167.png)
+
 -Pays et capitales : un logiciel permettant d'interroger l'utilisateur sur les pays et les capitales, avec différents modes possibles ;
 
 ![pays et capitales](https://user-images.githubusercontent.com/107947881/179393679-cc7fbefc-9c32-4ec2-b064-a7cfd42f5329.png)
