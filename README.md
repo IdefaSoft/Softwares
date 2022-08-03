@@ -5,7 +5,13 @@ Les logiciels avec une interface graphique :
 
 -MultipleScreenshots : un petit logiciel léger permettant de réaliser un certain nombre de captures d'écran à intervalle régulier ;
 
-![MultipleScreens](https://user-images.githubusercontent.com/107947881/179360710-f6efe9fe-85b9-4025-bd7f-110f2f7faff2.png)
+Entrée :
+
+![MultipleScreenshots1](https://user-images.githubusercontent.com/107947881/182572644-73e5f31c-d1a2-4992-abfd-61507b2eb382.png)
+
+Sortie :
+
+![Output](https://user-images.githubusercontent.com/107947881/182572651-ca8835d6-625d-490c-b62b-5328c09662c1.png)
 
 -ScreenSoft : un logiciel permettant de réaliser des captures d'écran, vous pouvez visualiser les captures d'écran avant de les enregistrer ;
 
